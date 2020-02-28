@@ -1,2 +1,2 @@
 # ARProject
-repositorio del equipo de desarrollo de realidad aumentada
+Repositorio del equipo de desarrollo de realidad aumentada
